@@ -2,14 +2,7 @@
     "name": "ah/swoft-mgsql",
     "description": "swoft mongodbsql component",
     "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "AoHe123",
-            "email": "892556342@qq.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "license": "Apache-2.0",
     "require": {
 	  "swoft/framework": "~2.0.0",
       "swoft/connection-pool": "~2.0.0"
