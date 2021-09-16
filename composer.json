@@ -22,5 +22,13 @@
         },
         "files": [
         ]
+    },
+	"autoload-dev": {
+      "psr-4": {
+        "SwoftTest\\Mongo\\Testing\\": "test/testing"
+      }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
     }
 }
